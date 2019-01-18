@@ -3,8 +3,8 @@ In this repo I will push my daily work of my journey to be good at ML . I pledge
 
 ## USER's LIST
 
-### SHELLKORE
-I [Shellkore](https://github.com/shellkore) also pledges to push my ML codes daily. I will also dedicate atleast 1 hr daily for the same purpose.
+### shell_dome (pronounced as sheldom)
+I [Shellkore](https://github.com/shellkore) also pledges to push my ML/DL codes daily. I will also dedicate some time daily for the same purpose.
 
 ### BigPapa
 I ,[Shubham](https://github.com/shubham7298), am here to join the fun. I will also stay dedicated towards ML.
