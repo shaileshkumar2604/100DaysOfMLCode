@@ -11,3 +11,4 @@ I ,[Shubham](https://github.com/shubham7298), am here to join the fun. I will al
 
 >I shaiesh (This profile is dead) also pledges to do the same.
 
+> baap ka dada ka sabka badla lega re tera faizal
